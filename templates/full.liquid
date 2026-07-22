@@ -1,0 +1,79 @@
+<div class="layout layout--col gap--medium">
+  {% if alert %}
+  <div class="item item--emphasis-3">
+    <div class="meta"></div>
+    <div class="content">
+      <span class="title title--small">Swim alert</span>
+      <span class="description">{{ alert }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if gale %}
+  <div class="item item--emphasis-3">
+    <div class="meta"></div>
+    <div class="content">
+      <span class="title title--small">Gale at the buoy</span>
+      <span class="description">{{ wind_kt }}kt {{ wind_dir }}{% if gust_kt %}, gusts {{ gust_kt }}kt{% endif %} — take care out there</span>
+    </div>
+  </div>
+  {% endif %}
+
+  <div class="columns" style="height: 100%;">
+    <div class="column">
+      <div class="flex flex--col flex--center-x flex--center-y gap--small" style="height: 100%;">
+        <span class="value value--xxxlarge value--tnums">{{ temp }}°C</span>
+        <span class="label">Sea temperature</span>
+        {% if trend %}<span class="description text--center">{{ trend }}</span>{% endif %}
+        {% if note %}<span class="label label--outline">{{ note }}</span>{% endif %}
+        {% if typical_low %}
+        <span class="description text--center">Typical for {{ season }}: {{ typical_low }}–{{ typical_high }}°C</span>
+        {% endif %}
+      </div>
+    </div>
+    <div class="column">
+      <div class="flex flex--col gap--medium">
+        {% if tides_today.size > 0 %}
+        <div class="item">
+          <div class="meta"></div>
+          <div class="content">
+            <span class="value value--small value--tnums">{% for t in tides_today %}{% if t.type == "high" %}▲{% else %}▼{% endif %} {{ t.time }}{% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}</span>
+            <span class="label">Tides today (▲ high · ▼ low)</span>
+          </div>
+        </div>
+        {% endif %}
+        {% if wave %}
+        <div class="item">
+          <div class="meta"></div>
+          <div class="content">
+            <span class="value value--small value--tnums">{{ wave }} m</span>
+            <span class="label">Wave height</span>
+          </div>
+        </div>
+        {% endif %}
+        {% if wind_kt %}{% unless gale %}
+        <div class="item">
+          <div class="meta"></div>
+          <div class="content">
+            <span class="value value--small value--tnums">{{ wind_kt }} kt {{ wind_dir }}{% if gust_kt %} · gusts {{ gust_kt }}{% endif %}</span>
+            <span class="label">Wind</span>
+          </div>
+        </div>
+        {% endunless %}{% endif %}
+        {% if water %}
+        <div class="item">
+          <div class="meta"></div>
+          <div class="content">
+            <span class="title title--small">Water quality</span>
+            <span class="description">{{ water }}</span>
+          </div>
+        </div>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <span class="title">Dublin Bay</span>
+  <span class="instance">{{ updated_day }} · updated {{ updated_local }}{% if stale %} (reading from {{ reading_time }}){% endif %}</span>
+</div>

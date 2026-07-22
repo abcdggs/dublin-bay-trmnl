@@ -1,0 +1,47 @@
+{
+ "alert": "Bathing prohibited at Dollymount, Rush South",
+ "archive_start": "2014",
+ "gale": false,
+ "gust_kt": 20,
+ "next_tides": [
+  {
+   "day": "today",
+   "time": "12:20",
+   "type": "low"
+  },
+  {
+   "day": "today",
+   "time": "19:05",
+   "type": "high"
+  }
+ ],
+ "note": "Unusually warm for late July",
+ "reading_time": "11:00",
+ "season": "late July",
+ "stale": false,
+ "temp": 18.1,
+ "tides_today": [
+  {
+   "time": "06:25",
+   "type": "high"
+  },
+  {
+   "time": "12:20",
+   "type": "low"
+  },
+  {
+   "time": "19:05",
+   "type": "high"
+  }
+ ],
+ "trend": "1.0°C warmer than last week",
+ "typical_high": 17.14,
+ "typical_low": 14.0,
+ "updated_at": "2026-07-22T10:22:12Z",
+ "updated_day": "Wed 22 Jul",
+ "updated_local": "11:22",
+ "water": "Good/Sufficient at Corbawn Lane, Merrion Strand, Excellent elsewhere (tested 6–9d ago)",
+ "wave": 0.4,
+ "wind_dir": "NNW",
+ "wind_kt": 15
+}

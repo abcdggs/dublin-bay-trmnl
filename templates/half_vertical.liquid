@@ -1,0 +1,43 @@
+<div class="layout layout--col gap--medium">
+  <div class="flex flex--col flex--center-x gap--small">
+    <span class="value value--xxlarge value--tnums">{{ temp }}°C</span>
+    <span class="label">Sea temperature</span>
+    {% if note %}
+    <span class="label label--outline">{{ note }}</span>
+    {% elsif trend %}
+    <span class="description text--center">{{ trend }}</span>
+    {% endif %}
+  </div>
+  {% if alert %}
+  <div class="item item--emphasis-3">
+    <div class="meta"></div>
+    <div class="content">
+      <span class="title title--small">Swim alert</span>
+      <span class="description">{{ alert }}</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if tides_today.size > 0 %}
+  <div class="item">
+    <div class="meta"></div>
+    <div class="content">
+      <span class="value value--xsmall value--tnums">{% for t in tides_today %}{% if t.type == "high" %}▲{% else %}▼{% endif %} {{ t.time }}{% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}</span>
+      <span class="label">Tides today</span>
+    </div>
+  </div>
+  {% endif %}
+  {% if wave %}
+  <div class="item">
+    <div class="meta"></div>
+    <div class="content">
+      <span class="value value--xsmall value--tnums">{{ wave }} m{% if wind_kt %} · {% if gale %}GALE {% endif %}{{ wind_kt }}kt {{ wind_dir }}{% endif %}</span>
+      <span class="label">Waves &amp; wind</span>
+    </div>
+  </div>
+  {% endif %}
+</div>
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <span class="title">Dublin Bay</span>
+  <span class="instance">updated {{ updated_local }}</span>
+</div>

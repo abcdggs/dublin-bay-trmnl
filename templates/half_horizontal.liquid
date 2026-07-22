@@ -1,0 +1,33 @@
+<div class="layout">
+  <div class="columns" style="height: 100%;">
+    <div class="column">
+      <div class="flex flex--col flex--center-x flex--center-y gap--small" style="height: 100%;">
+        <span class="value value--xlarge value--tnums">{{ temp }}°C</span>
+        {% if note %}
+        <span class="label label--outline">{{ note }}</span>
+        {% elsif trend %}
+        <span class="description text--center">{{ trend }}</span>
+        {% endif %}
+      </div>
+    </div>
+    <div class="column">
+      <div class="flex flex--col flex--center-y gap--small" style="height: 100%;">
+        {% if alert %}
+        <span class="label label--outline">⚠ {{ alert }}</span>
+        {% endif %}
+        {% if next_tides.size > 0 %}
+        <span class="value value--xsmall value--tnums">{% for t in next_tides %}{% if t.type == "high" %}▲{% else %}▼{% endif %} {{ t.time }}{% if t.day != "today" %} ({{ t.day }}){% endif %}{% unless forloop.last %} &nbsp; {% endunless %}{% endfor %}</span>
+        <span class="label">Next tides</span>
+        {% endif %}
+        {% if wave %}
+        <span class="description">{{ wave }} m waves{% if wind_kt %} · {% if gale %}GALE {% endif %}{{ wind_kt }}kt {{ wind_dir }}{% endif %}</span>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <span class="title">Dublin Bay</span>
+  <span class="instance">updated {{ updated_local }}</span>
+</div>

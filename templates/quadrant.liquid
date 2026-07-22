@@ -1,0 +1,15 @@
+<div class="layout">
+  <div class="flex flex--col flex--center-x flex--center-y gap--small" style="height: 100%;">
+    <span class="value value--xlarge value--tnums">{{ temp }}°C</span>
+    {% if alert %}
+    <span class="label label--outline">⚠ Swim alert</span>
+    {% elsif next_tides.size > 0 %}
+    {% assign nt = next_tides | first %}
+    <span class="description">Next: {% if nt.type == "high" %}▲ high{% else %}▼ low{% endif %} {{ nt.time }}{% if nt.day != "today" %} {{ nt.day }}{% endif %}</span>
+    {% endif %}
+  </div>
+</div>
+<div class="title_bar">
+  <img class="image" src="https://usetrmnl.com/images/plugins/trmnl--render.svg" />
+  <span class="title">Dublin Bay</span>
+</div>
