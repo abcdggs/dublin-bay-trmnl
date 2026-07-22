@@ -1,8 +1,8 @@
 {
- "alert": "Bathing prohibited at Dollymount, Rush South",
+ "alert": "Swim notice at Dollymount, Dun Laoghaire Baths, Rush South",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 19,
+ "gust_kt": 16,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "13:00",
+ "reading_time": "16:00",
  "season": "late July",
  "stale": false,
  "temp": 18.1,
@@ -34,14 +34,14 @@
    "type": "high"
   }
  ],
- "trend": "1.0°C warmer than last week",
+ "trend": "0.7°C warmer than last week",
  "typical_high": 17.14,
  "typical_low": 14.0,
- "updated_at": "2026-07-22T13:00:46Z",
+ "updated_at": "2026-07-22T15:19:15Z",
  "updated_day": "Wed 22 Jul",
- "updated_local": "14:00",
+ "updated_local": "16:19",
  "water": "Good/Sufficient at Corbawn Lane, Merrion Strand, Excellent elsewhere (tested 6–9d ago)",
- "wave": 0.6,
- "wind_dir": "NNE",
- "wind_kt": 14
+ "wave": 0.7,
+ "wind_dir": "N",
+ "wind_kt": 11
 }
