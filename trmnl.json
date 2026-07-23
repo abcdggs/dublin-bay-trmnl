@@ -38,14 +38,14 @@
    "type": "high"
   }
  ],
- "trend": "1.0°C warmer than last week",
+ "trend": "0.9°C warmer than last week",
  "typical_high": 17.14,
  "typical_low": 14.04,
- "updated_at": "2026-07-23T11:22:58Z",
+ "updated_at": "2026-07-23T12:00:50Z",
  "updated_day": "Thu 23 Jul",
- "updated_local": "12:22",
+ "updated_local": "13:00",
  "water": "Good/Sufficient at Corbawn Lane, Merrion Strand, Excellent elsewhere (tested 7–10d ago)",
  "wave": 0.4,
  "wind_dir": "NE",
- "wind_kt": 11
+ "wind_kt": 10
 }
