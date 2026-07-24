@@ -5,46 +5,46 @@
  "gust_kt": 21,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "03:15",
    "type": "low"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "09:45",
    "type": "high"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "late July",
  "stale": false,
- "temp": 18.3,
+ "temp": 18.2,
  "tides_today": [
   {
-   "time": "02:05",
+   "time": "03:15",
    "type": "low"
   },
   {
-   "time": "08:40",
+   "time": "09:45",
    "type": "high"
   },
   {
-   "time": "14:35",
+   "time": "15:35",
    "type": "low"
   },
   {
-   "time": "21:10",
+   "time": "22:05",
    "type": "high"
   }
  ],
- "trend": "0.7°C warmer than last week",
+ "trend": "0.6°C warmer than last week",
  "typical_high": 17.12,
- "typical_low": 14.2,
- "updated_at": "2026-07-24T22:15:39Z",
- "updated_day": "Fri 24 Jul",
- "updated_local": "23:15",
- "water": "Excellent at the 23 other spots (tested 4–11d ago)",
+ "typical_low": 14.21,
+ "updated_at": "2026-07-24T23:30:45Z",
+ "updated_day": "Sat 25 Jul",
+ "updated_local": "00:30",
+ "water": "Excellent at the 23 other spots (tested 5–12d ago)",
  "wave": 0.4,
  "wind_dir": "W",
  "wind_kt": 16
