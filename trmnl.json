@@ -2,24 +2,24 @@
  "alert": "Swim notice at Dun Laoghaire Baths, Rush South",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 24,
+ "gust_kt": 23,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "15:35",
-   "type": "low"
-  },
   {
    "day": "today",
    "time": "22:05",
    "type": "high"
+  },
+  {
+   "day": "tomorrow",
+   "time": "04:15",
+   "type": "low"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "14:00",
+ "reading_time": "16:00",
  "season": "late July",
  "stale": false,
- "temp": 18.1,
+ "temp": 18.3,
  "tides_today": [
   {
    "time": "03:15",
@@ -38,14 +38,14 @@
    "type": "high"
   }
  ],
- "trend": "0.3°C warmer than last week",
+ "trend": "0.4°C warmer than last week",
  "typical_high": 17.12,
  "typical_low": 14.21,
- "updated_at": "2026-07-25T14:08:51Z",
+ "updated_at": "2026-07-25T15:36:23Z",
  "updated_day": "Sat 25 Jul",
- "updated_local": "15:08",
+ "updated_local": "16:36",
  "water": "Excellent at the 23 other spots (tested 5–12d ago)",
- "wave": 0.6,
+ "wave": 0.5,
  "wind_dir": "WSW",
- "wind_kt": 18
+ "wind_kt": 17
 }
