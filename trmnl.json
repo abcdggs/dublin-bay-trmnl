@@ -5,14 +5,14 @@
  "gust_kt": 25,
  "next_tides": [
   {
-   "day": "today",
-   "time": "22:50",
-   "type": "high"
-  },
-  {
    "day": "tomorrow",
    "time": "05:00",
    "type": "low"
+  },
+  {
+   "day": "tomorrow",
+   "time": "11:25",
+   "type": "high"
   }
  ],
  "note": "Unusually warm for late July",
@@ -38,12 +38,12 @@
    "type": "high"
   }
  ],
- "trend": "0.2°C cooler than last week",
+ "trend": "same as last week",
  "typical_high": 17.11,
  "typical_low": 14.3,
- "updated_at": "2026-07-26T21:25:00Z",
+ "updated_at": "2026-07-26T22:09:46Z",
  "updated_day": "Sun 26 Jul",
- "updated_local": "22:25",
+ "updated_local": "23:09",
  "water": "Excellent at the 23 other spots (tested 6–13d ago)",
  "wave": 0.6,
  "wind_dir": "WNW",
