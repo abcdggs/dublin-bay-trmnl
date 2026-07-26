@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "11:00",
+ "reading_time": "12:00",
  "season": "late July",
  "stale": false,
  "temp": 18.1,
@@ -38,14 +38,14 @@
    "type": "high"
   }
  ],
- "trend": "same as last week",
+ "trend": "0.2°C warmer than last week",
  "typical_high": 17.11,
  "typical_low": 14.3,
- "updated_at": "2026-07-26T10:57:31Z",
+ "updated_at": "2026-07-26T11:35:16Z",
  "updated_day": "Sun 26 Jul",
- "updated_local": "11:57",
+ "updated_local": "12:35",
  "water": "Excellent at the 23 other spots (tested 6–13d ago)",
- "wave": 0.8,
+ "wave": 0.7,
  "wind_dir": "WNW",
  "wind_kt": 23
 }
