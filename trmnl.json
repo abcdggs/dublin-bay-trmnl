@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 16,
+ "gust_kt": 15,
  "next_tides": [
   {
    "day": "tomorrow",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "18:00",
+ "reading_time": "19:00",
  "season": "late July",
  "stale": false,
  "temp": 17.9,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.3°C cooler than last week",
+ "trend": "0.5°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.5,
- "updated_at": "2026-07-29T17:34:10Z",
+ "updated_at": "2026-07-29T18:37:45Z",
  "updated_day": "Wed 29 Jul",
- "updated_local": "18:34",
+ "updated_local": "19:37",
  "water": "Poor at Dun Laoghaire Baths, Excellent elsewhere (tested 9–16d ago)",
  "wave": 0.4,
- "wind_dir": "NW",
- "wind_kt": 11
+ "wind_dir": "WNW",
+ "wind_kt": 12
 }
