@@ -2,7 +2,7 @@
  "alert": "Swim notice at Dun Laoghaire Baths (since 20 Jul)",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 10,
+ "gust_kt": 7,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "10:00",
+ "reading_time": "12:00",
  "season": "late July",
  "stale": false,
  "temp": 17.8,
@@ -41,11 +41,11 @@
  "trend": "0.3°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.5,
- "updated_at": "2026-07-29T09:47:15Z",
+ "updated_at": "2026-07-29T11:38:36Z",
  "updated_day": "Wed 29 Jul",
- "updated_local": "10:47",
+ "updated_local": "12:38",
  "water": "Excellent at the 24 other spots (tested 9–16d ago)",
  "wave": 0.4,
- "wind_dir": "SSE",
- "wind_kt": 8
+ "wind_dir": "NNE",
+ "wind_kt": 6
 }
