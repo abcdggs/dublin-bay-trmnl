@@ -2,50 +2,50 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 12,
+ "gust_kt": 16,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "00:45",
    "type": "high"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "06:40",
    "type": "low"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "22:00",
+ "reading_time": "00:00",
  "season": "late July",
  "stale": false,
  "temp": 17.9,
  "tides_today": [
   {
-   "time": "00:10",
+   "time": "00:45",
    "type": "high"
   },
   {
-   "time": "06:10",
+   "time": "06:40",
    "type": "low"
   },
   {
-   "time": "12:40",
+   "time": "13:15",
    "type": "high"
   },
   {
-   "time": "18:15",
+   "time": "18:45",
    "type": "low"
   }
  ],
  "trend": "0.3°C cooler than last week",
  "typical_high": 17.1,
- "typical_low": 14.5,
- "updated_at": "2026-07-29T22:09:47Z",
- "updated_day": "Wed 29 Jul",
- "updated_local": "23:09",
- "water": "Poor at Dun Laoghaire Baths, Excellent elsewhere (tested 9–16d ago)",
+ "typical_low": 14.6,
+ "updated_at": "2026-07-29T23:29:19Z",
+ "updated_day": "Thu 30 Jul",
+ "updated_local": "00:29",
+ "water": "Poor at Dun Laoghaire Baths, Excellent elsewhere (tested 10–17d ago)",
  "wave": 0.4,
- "wind_dir": "WNW",
- "wind_kt": 10
+ "wind_dir": "W",
+ "wind_kt": 13
 }
