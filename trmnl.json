@@ -6,20 +6,20 @@
  "next_tides": [
   {
    "day": "today",
-   "time": "00:45",
-   "type": "high"
+   "time": "06:40",
+   "type": "low"
   },
   {
    "day": "today",
-   "time": "06:40",
-   "type": "low"
+   "time": "13:15",
+   "type": "high"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "00:00",
+ "reading_time": "04:00",
  "season": "late July",
  "stale": false,
- "temp": 17.9,
+ "temp": 17.7,
  "tides_today": [
   {
    "time": "00:45",
@@ -41,11 +41,11 @@
  "trend": "0.3°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.6,
- "updated_at": "2026-07-29T23:29:19Z",
+ "updated_at": "2026-07-30T03:39:47Z",
  "updated_day": "Thu 30 Jul",
- "updated_local": "00:29",
- "water": "Poor at Dun Laoghaire Baths, Excellent elsewhere (tested 10–17d ago)",
- "wave": 0.4,
+ "updated_local": "04:39",
+ "water": "Good at Shelley Banks, Excellent elsewhere (tested 3–16d ago)",
+ "wave": 0,
  "wind_dir": "W",
  "wind_kt": 13
 }
