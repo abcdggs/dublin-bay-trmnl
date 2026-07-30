@@ -2,21 +2,21 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 13,
+ "gust_kt": 15,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "13:15",
-   "type": "high"
-  },
   {
    "day": "today",
    "time": "18:45",
    "type": "low"
+  },
+  {
+   "day": "tomorrow",
+   "time": "01:15",
+   "type": "high"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "12:00",
+ "reading_time": "15:00",
  "season": "late July",
  "stale": false,
  "temp": 17.8,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.4°C cooler than last week",
+ "trend": "0.6°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.6,
- "updated_at": "2026-07-30T12:02:14Z",
+ "updated_at": "2026-07-30T14:40:03Z",
  "updated_day": "Thu 30 Jul",
- "updated_local": "13:02",
+ "updated_local": "15:40",
  "water": "Good at Shelley Banks, Excellent elsewhere (tested 3–16d ago)",
  "wave": 0,
- "wind_dir": "W",
- "wind_kt": 9
+ "wind_dir": "WNW",
+ "wind_kt": 10
 }
