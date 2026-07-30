@@ -2,50 +2,50 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 22,
+ "gust_kt": 24,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "01:15",
    "type": "high"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "07:10",
    "type": "low"
   }
  ],
  "note": "Unusually warm for late July",
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "late July",
  "stale": false,
- "temp": 17.8,
+ "temp": 17.7,
  "tides_today": [
   {
-   "time": "00:45",
+   "time": "01:15",
    "type": "high"
   },
   {
-   "time": "06:40",
+   "time": "07:10",
    "type": "low"
   },
   {
-   "time": "13:15",
+   "time": "13:45",
    "type": "high"
   },
   {
-   "time": "18:45",
+   "time": "19:15",
    "type": "low"
   }
  ],
- "trend": "0.4°C cooler than last week",
+ "trend": "0.5°C cooler than last week",
  "typical_high": 17.1,
- "typical_low": 14.6,
- "updated_at": "2026-07-30T22:16:41Z",
- "updated_day": "Thu 30 Jul",
- "updated_local": "23:16",
- "water": "Good at Shelley Banks, Excellent elsewhere (tested 3–16d ago)",
- "wave": 0.4,
+ "typical_low": 14.68,
+ "updated_at": "2026-07-30T23:30:22Z",
+ "updated_day": "Fri 31 Jul",
+ "updated_local": "00:30",
+ "water": "Good at Shelley Banks, Excellent elsewhere (tested 4–17d ago)",
+ "wave": 0.5,
  "wind_dir": "W",
- "wind_kt": 17
+ "wind_kt": 20
 }
