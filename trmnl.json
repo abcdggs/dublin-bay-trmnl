@@ -2,24 +2,24 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 18,
+ "gust_kt": 17,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "01:50",
-   "type": "high"
-  },
   {
    "day": "today",
    "time": "07:40",
    "type": "low"
+  },
+  {
+   "day": "today",
+   "time": "14:20",
+   "type": "high"
   }
  ],
- "note": "Warmest August reading in the archive",
- "reading_time": "00:00",
+ "note": null,
+ "reading_time": "04:00",
  "season": "early August",
  "stale": false,
- "temp": 17.6,
+ "temp": 17.3,
  "tides_today": [
   {
    "time": "01:50",
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.6°C cooler than last week",
+ "trend": "0.8°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.75,
- "updated_at": "2026-07-31T23:28:19Z",
+ "updated_at": "2026-08-01T03:58:49Z",
  "updated_day": "Sat 1 Aug",
- "updated_local": "00:28",
- "water": "Good at Shelley Banks, Excellent elsewhere (tested 5–18d ago)",
- "wave": 0.4,
+ "updated_local": "04:58",
+ "water": "Good at Merrion Strand, Shelley Banks, Excellent elsewhere (tested 4–5d ago)",
+ "wave": 0,
  "wind_dir": "W",
- "wind_kt": 14
+ "wind_kt": 11
 }
