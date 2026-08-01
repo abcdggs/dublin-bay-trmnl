@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 17,
+ "gust_kt": 13,
  "next_tides": [
   {
    "day": "today",
@@ -16,10 +16,10 @@
   }
  ],
  "note": null,
- "reading_time": "04:00",
+ "reading_time": "07:00",
  "season": "early August",
  "stale": false,
- "temp": 17.3,
+ "temp": 17.2,
  "tides_today": [
   {
    "time": "01:50",
@@ -41,9 +41,9 @@
  "trend": "0.9°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.75,
- "updated_at": "2026-08-01T04:10:59Z",
+ "updated_at": "2026-08-01T06:38:53Z",
  "updated_day": "Sat 1 Aug",
- "updated_local": "05:10",
+ "updated_local": "07:38",
  "water": "Good at Merrion Strand, Shelley Banks, Excellent elsewhere (tested 4–5d ago)",
  "wave": 0,
  "wind_dir": "W",
