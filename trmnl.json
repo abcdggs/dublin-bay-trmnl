@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "15:00",
+ "reading_time": "16:00",
  "season": "early August",
  "stale": false,
  "temp": 17.4,
@@ -41,11 +41,11 @@
  "trend": "0.8°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.75,
- "updated_at": "2026-08-01T14:43:35Z",
+ "updated_at": "2026-08-01T16:11:01Z",
  "updated_day": "Sat 1 Aug",
- "updated_local": "15:43",
+ "updated_local": "17:11",
  "water": "Good at Merrion Strand, Shelley Banks, Excellent elsewhere (tested 4–5d ago)",
  "wave": 0,
- "wind_dir": "WNW",
- "wind_kt": 10
+ "wind_dir": "W",
+ "wind_kt": 8
 }
