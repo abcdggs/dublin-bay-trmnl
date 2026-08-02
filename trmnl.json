@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 14,
+ "gust_kt": 13,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Warmest August reading in the archive",
- "reading_time": "12:00",
+ "reading_time": "13:00",
  "season": "early August",
  "stale": false,
  "temp": 17.5,
@@ -38,12 +38,12 @@
    "type": "low"
   }
  ],
- "trend": "0.6°C cooler than last week",
+ "trend": "0.7°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.8,
- "updated_at": "2026-08-02T11:32:27Z",
+ "updated_at": "2026-08-02T12:33:23Z",
  "updated_day": "Sun 2 Aug",
- "updated_local": "12:32",
+ "updated_local": "13:33",
  "water": "Good at Merrion Strand, Shelley Banks, Excellent elsewhere (tested 5–6d ago)",
  "wave": 0,
  "wind_dir": "SE",
