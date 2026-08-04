@@ -2,21 +2,21 @@
  "alert": "Swim notice at Dun Laoghaire Baths, Forty Foot, Killiney, Sandycove, Seapoint, White Rock (since 3 Aug)",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 17,
+ "gust_kt": 18,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "21:45",
-   "type": "low"
-  },
   {
    "day": "tomorrow",
    "time": "04:25",
    "type": "high"
+  },
+  {
+   "day": "tomorrow",
+   "time": "10:20",
+   "type": "low"
   }
  ],
  "note": null,
- "reading_time": "20:00",
+ "reading_time": "22:00",
  "season": "early August",
  "stale": false,
  "temp": 17.4,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.6°C cooler than last week",
+ "trend": "0.4°C cooler than last week",
  "typical_high": 17.1,
  "typical_low": 14.9,
- "updated_at": "2026-08-04T19:53:11Z",
+ "updated_at": "2026-08-04T21:46:17Z",
  "updated_day": "Tue 4 Aug",
- "updated_local": "20:53",
+ "updated_local": "22:46",
  "water": "Good at Merrion Strand, Shelley Banks, Excellent elsewhere (tested 7–8d ago)",
- "wave": 0.5,
+ "wave": 0.4,
  "wind_dir": "W",
- "wind_kt": 13
+ "wind_kt": 8
 }
