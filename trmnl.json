@@ -2,46 +2,22 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 23,
- "next_tides": [
-  {
-   "day": "today",
-   "time": "19:20",
-   "type": "high"
-  },
-  {
-   "day": "tomorrow",
-   "time": "01:00",
-   "type": "low"
-  }
- ],
+ "gust_kt": 21,
+ "next_tides": [],
  "note": null,
- "reading_time": "17:00",
+ "reading_time": "18:00",
  "season": "early August",
  "stale": false,
  "temp": 17.3,
- "tides_today": [
-  {
-   "time": "06:30",
-   "type": "high"
-  },
-  {
-   "time": "12:20",
-   "type": "low"
-  },
-  {
-   "time": "19:20",
-   "type": "high"
-  }
- ],
+ "tides_today": [],
  "trend": "same as last week",
  "typical_high": 17.08,
  "typical_low": 14.99,
- "updated_at": "2026-08-07T17:04:18Z",
+ "updated_at": "2026-08-07T17:59:14Z",
  "updated_day": "Fri 7 Aug",
- "updated_local": "18:04",
+ "updated_local": "18:59",
  "water": "Good at Half Moon, Excellent elsewhere (tested 3–11d ago)",
- "wave": 0.7,
+ "wave": 0.8,
  "wind_dir": "SSE",
- "wind_kt": 17
+ "wind_kt": 16
 }
