@@ -1,5 +1,5 @@
 {
- "alert": "Swim notice at Dun Laoghaire Baths, Forty Foot, Killiney, Sandycove, Seapoint, White Rock (since 3 Aug)",
+ "alert": null,
  "archive_start": "2014",
  "gale": false,
  "gust_kt": 23,
@@ -37,9 +37,9 @@
  "trend": "same as last week",
  "typical_high": 17.08,
  "typical_low": 14.99,
- "updated_at": "2026-08-07T16:24:05Z",
+ "updated_at": "2026-08-07T17:04:18Z",
  "updated_day": "Fri 7 Aug",
- "updated_local": "17:24",
+ "updated_local": "18:04",
  "water": "Good at Half Moon, Excellent elsewhere (tested 3–11d ago)",
  "wave": 0.7,
  "wind_dir": "SSE",
