@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 7,
+ "gust_kt": 6,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "09:00",
+ "reading_time": "10:00",
  "season": "early August",
  "stale": false,
  "temp": 17.3,
@@ -38,14 +38,14 @@
    "type": "high"
   }
  ],
- "trend": "0.1°C warmer than last week",
+ "trend": "same as last week",
  "typical_high": 17.08,
  "typical_low": 14.97,
- "updated_at": "2026-08-08T08:19:28Z",
+ "updated_at": "2026-08-08T09:20:29Z",
  "updated_day": "Sat 8 Aug",
- "updated_local": "09:19",
+ "updated_local": "10:20",
  "water": "Good/Sufficient at Coliemore Hbr, Half Moon, Excellent elsewhere (tested 4–12d ago)",
  "wave": 0.3,
  "wind_dir": "W",
- "wind_kt": 6
+ "wind_kt": 4
 }
