@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for early August",
- "reading_time": "16:00",
+ "reading_time": "17:00",
  "season": "early August",
  "stale": false,
  "temp": 17.6,
@@ -41,11 +41,11 @@
  "trend": "0.3°C warmer than last week",
  "typical_high": 17.04,
  "typical_low": 14.95,
- "updated_at": "2026-08-10T16:10:50Z",
+ "updated_at": "2026-08-10T17:05:35Z",
  "updated_day": "Mon 10 Aug",
- "updated_local": "17:10",
+ "updated_local": "18:05",
  "water": "Good/Sufficient at Coliemore Hbr, Half Moon, Excellent elsewhere (tested 6–14d ago)",
- "wave": 0,
- "wind_dir": "ESE",
+ "wave": 0.1,
+ "wind_dir": "SE",
  "wind_kt": 9
 }
