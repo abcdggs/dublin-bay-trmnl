@@ -5,18 +5,18 @@
  "gust_kt": 10,
  "next_tides": [
   {
-   "day": "today",
-   "time": "22:40",
-   "type": "high"
-  },
-  {
    "day": "tomorrow",
    "time": "04:30",
    "type": "low"
+  },
+  {
+   "day": "tomorrow",
+   "time": "11:15",
+   "type": "high"
   }
  ],
  "note": null,
- "reading_time": "21:00",
+ "reading_time": "22:00",
  "season": "early August",
  "stale": false,
  "temp": 17.3,
@@ -41,11 +41,11 @@
  "trend": "same as last week",
  "typical_high": 17.04,
  "typical_low": 14.95,
- "updated_at": "2026-08-10T21:10:12Z",
+ "updated_at": "2026-08-10T21:55:03Z",
  "updated_day": "Mon 10 Aug",
- "updated_local": "22:10",
+ "updated_local": "22:55",
  "water": "Good/Sufficient at Coliemore Hbr, Half Moon, Excellent elsewhere (tested 6–14d ago)",
- "wave": 0.4,
+ "wave": 0.1,
  "wind_dir": "SE",
  "wind_kt": 8
 }
