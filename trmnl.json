@@ -15,7 +15,7 @@
    "type": "high"
   }
  ],
- "note": "Warmest August reading in the archive",
+ "note": "Unusually warm for mid-August",
  "reading_time": "16:00",
  "season": "mid-August",
  "stale": false,
@@ -41,9 +41,9 @@
  "trend": "0.3°C warmer than last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-13T15:29:04Z",
+ "updated_at": "2026-08-13T16:10:53Z",
  "updated_day": "Thu 13 Aug",
- "updated_local": "16:29",
+ "updated_local": "17:10",
  "water": "Good at Half Moon, Excellent elsewhere (tested 3–9d ago)",
  "wave": 0,
  "wind_dir": "SE",
