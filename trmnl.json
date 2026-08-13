@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "10:00",
+ "reading_time": "11:00",
  "season": "mid-August",
  "stale": false,
  "temp": 17.3,
@@ -41,11 +41,11 @@
  "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-13T09:21:54Z",
+ "updated_at": "2026-08-13T10:34:30Z",
  "updated_day": "Thu 13 Aug",
- "updated_local": "10:21",
+ "updated_local": "11:34",
  "water": "Good at Half Moon, Excellent elsewhere (tested 3–17d ago)",
  "wave": 0,
- "wind_dir": "SSE",
- "wind_kt": 7
+ "wind_dir": "SE",
+ "wind_kt": 6
 }
