@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 12,
+ "gust_kt": 13,
  "next_tides": [
   {
    "day": "tomorrow",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Warmest August reading in the archive",
- "reading_time": "19:00",
+ "reading_time": "20:00",
  "season": "mid-August",
  "stale": false,
  "temp": 17.8,
@@ -41,11 +41,11 @@
  "trend": "0.4°C warmer than last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-14T19:10:02Z",
+ "updated_at": "2026-08-14T19:56:00Z",
  "updated_day": "Fri 14 Aug",
- "updated_local": "20:10",
+ "updated_local": "20:56",
  "water": "Good at Half Moon, Excellent elsewhere (tested 4–10d ago)",
- "wave": 0.4,
- "wind_dir": "WNW",
- "wind_kt": 6
+ "wave": 0.3,
+ "wind_dir": "NW",
+ "wind_kt": 11
 }
