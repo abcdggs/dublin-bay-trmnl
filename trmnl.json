@@ -16,10 +16,10 @@
   }
  ],
  "note": "Unusually warm for mid-August",
- "reading_time": "09:00",
+ "reading_time": "10:00",
  "season": "mid-August",
  "stale": false,
- "temp": 17.5,
+ "temp": 17.4,
  "tides_today": [
   {
    "time": "03:15",
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.3°C warmer than last week",
+ "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.94,
- "updated_at": "2026-08-17T08:21:55Z",
+ "updated_at": "2026-08-17T09:22:00Z",
  "updated_day": "Mon 17 Aug",
- "updated_local": "09:21",
+ "updated_local": "10:22",
  "water": "Good at Half Moon, Excellent elsewhere (tested 7–13d ago)",
  "wave": 0,
  "wind_dir": "W",
- "wind_kt": 5
+ "wind_kt": 12
 }
