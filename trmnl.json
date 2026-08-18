@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 19,
+ "gust_kt": 20,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": "Unusually warm for mid-August",
- "reading_time": "10:00",
+ "reading_time": "11:00",
  "season": "mid-August",
  "stale": false,
  "temp": 17.4,
@@ -41,11 +41,11 @@
  "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-18T09:56:24Z",
+ "updated_at": "2026-08-18T10:43:17Z",
  "updated_day": "Tue 18 Aug",
- "updated_local": "10:56",
+ "updated_local": "11:43",
  "water": "Good at Half Moon, Excellent elsewhere (tested 8–14d ago)",
- "wave": 0.3,
- "wind_dir": "WNW",
- "wind_kt": 10
+ "wave": 0.4,
+ "wind_dir": "W",
+ "wind_kt": 13
 }
