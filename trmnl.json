@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 25,
+ "gust_kt": 15,
  "next_tides": [
   {
    "day": "today",
@@ -15,11 +15,11 @@
    "type": "high"
   }
  ],
- "note": "Unusually warm for mid-August",
- "reading_time": "06:00",
+ "note": null,
+ "reading_time": "07:00",
  "season": "mid-August",
  "stale": false,
- "temp": 17.4,
+ "temp": 17.3,
  "tides_today": [
   {
    "time": "04:45",
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.1°C cooler than last week",
+ "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-19T05:43:26Z",
+ "updated_at": "2026-08-19T07:01:53Z",
  "updated_day": "Wed 19 Aug",
- "updated_local": "06:43",
+ "updated_local": "08:01",
  "water": "Good at Merrion Strand, Excellent elsewhere (tested 9d ago)",
- "wave": 0.5,
- "wind_dir": "W",
- "wind_kt": 19
+ "wave": 0.4,
+ "wind_dir": "WSW",
+ "wind_kt": 6
 }
