@@ -2,21 +2,21 @@
  "alert": "Bathing prohibited at Portmarnock (since 19 Aug)",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 20,
+ "gust_kt": 18,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "18:05",
-   "type": "high"
-  },
   {
    "day": "today",
    "time": "23:55",
    "type": "low"
+  },
+  {
+   "day": "tomorrow",
+   "time": "06:40",
+   "type": "high"
   }
  ],
  "note": null,
- "reading_time": "17:00",
+ "reading_time": "18:00",
  "season": "mid-August",
  "stale": false,
  "temp": 17.3,
@@ -41,11 +41,11 @@
  "trend": "0.5°C cooler than last week",
  "typical_high": 17.0,
  "typical_low": 14.95,
- "updated_at": "2026-08-20T16:48:23Z",
+ "updated_at": "2026-08-20T17:42:04Z",
  "updated_day": "Thu 20 Aug",
- "updated_local": "17:48",
+ "updated_local": "18:42",
  "water": "Good at Merrion Strand, Excellent elsewhere (tested 3–10d ago)",
- "wave": 0.9,
+ "wave": 0.7,
  "wind_dir": "N",
  "wind_kt": 13
 }
