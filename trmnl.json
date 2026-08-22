@@ -5,47 +5,47 @@
  "gust_kt": 11,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "02:50",
    "type": "low"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "09:15",
    "type": "high"
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "late August",
  "stale": false,
- "temp": 16.9,
+ "temp": 16.8,
  "tides_today": [
   {
-   "time": "01:25",
+   "time": "02:50",
    "type": "low"
   },
   {
-   "time": "08:00",
+   "time": "09:15",
    "type": "high"
   },
   {
-   "time": "13:55",
+   "time": "15:10",
    "type": "low"
   },
   {
-   "time": "20:25",
+   "time": "21:30",
    "type": "high"
   }
  ],
- "trend": "0.7°C cooler than last week",
+ "trend": "0.8°C cooler than last week",
  "typical_high": 17.0,
  "typical_low": 14.94,
- "updated_at": "2026-08-22T22:45:39Z",
- "updated_day": "Sat 22 Aug",
- "updated_local": "23:45",
- "water": "Good at Merrion Strand, Excellent elsewhere (tested 5–12d ago)",
+ "updated_at": "2026-08-22T23:42:48Z",
+ "updated_day": "Sun 23 Aug",
+ "updated_local": "00:42",
+ "water": "Good at Merrion Strand, Excellent elsewhere (tested 6–13d ago)",
  "wave": 0,
  "wind_dir": "NE",
- "wind_kt": 8
+ "wind_kt": 9
 }
