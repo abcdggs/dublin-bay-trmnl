@@ -2,50 +2,46 @@
  "alert": "Swim notice at Balbriggan, Claremont, Dollymount, Half Moon, Portmarnock, Rush North, Sandymount",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 10,
+ "gust_kt": 13,
  "next_tides": [
   {
    "day": "today",
-   "time": "23:40",
-   "type": "high"
-  },
-  {
-   "day": "tomorrow",
    "time": "05:45",
    "type": "low"
+  },
+  {
+   "day": "today",
+   "time": "12:15",
+   "type": "high"
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "late August",
  "stale": false,
  "temp": 17.2,
  "tides_today": [
   {
-   "time": "05:15",
+   "time": "05:45",
    "type": "low"
   },
   {
-   "time": "11:40",
+   "time": "12:15",
    "type": "high"
   },
   {
-   "time": "17:20",
+   "time": "17:50",
    "type": "low"
-  },
-  {
-   "time": "23:40",
-   "type": "high"
   }
  ],
  "trend": "0.1°C cooler than last week",
  "typical_high": 17.08,
  "typical_low": 14.9,
- "updated_at": "2026-08-26T22:29:44Z",
- "updated_day": "Wed 26 Aug",
- "updated_local": "23:29",
- "water": "Good at Merrion Strand, Excellent elsewhere (tested 9–16d ago)",
- "wave": 0.6,
- "wind_dir": "ENE",
- "wind_kt": 6
+ "updated_at": "2026-08-26T23:54:19Z",
+ "updated_day": "Thu 27 Aug",
+ "updated_local": "00:54",
+ "water": "Good at Merrion Strand, Excellent elsewhere (tested 10–17d ago)",
+ "wave": 0.4,
+ "wind_dir": "NNE",
+ "wind_kt": 10
 }
