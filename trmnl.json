@@ -5,21 +5,21 @@
  "gust_kt": 14,
  "next_tides": [
   {
-   "day": "today",
-   "time": "17:50",
-   "type": "low"
-  },
-  {
    "day": "tomorrow",
    "time": "00:15",
    "type": "high"
+  },
+  {
+   "day": "tomorrow",
+   "time": "06:10",
+   "type": "low"
   }
  ],
  "note": null,
- "reading_time": "16:00",
+ "reading_time": "21:00",
  "season": "late August",
  "stale": false,
- "temp": 17,
+ "temp": 17.1,
  "tides_today": [
   {
    "time": "05:45",
@@ -34,14 +34,14 @@
    "type": "low"
   }
  ],
- "trend": "0.3°C cooler than last week",
+ "trend": "same as last week",
  "typical_high": 17.08,
  "typical_low": 14.9,
- "updated_at": "2026-08-27T16:10:53Z",
+ "updated_at": "2026-08-27T20:22:19Z",
  "updated_day": "Thu 27 Aug",
- "updated_local": "17:10",
+ "updated_local": "21:22",
  "water": "Excellent at the 12 other spots (tested 3–10d ago)",
- "wave": 0.6,
- "wind_dir": "NE",
- "wind_kt": 10
+ "wave": 0.7,
+ "wind_dir": "NNE",
+ "wind_kt": 11
 }
