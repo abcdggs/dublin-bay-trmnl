@@ -2,21 +2,21 @@
  "alert": "Swim notice at Balbriggan, Claremont, Dollymount, Dun Laoghaire Baths, Forty Foot, Half Moon, Killiney, Portmarnock, Rush North, Sandycove, Sandymount, Seapoint, White Rock",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 20,
+ "gust_kt": 3,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "19:15",
-   "type": "low"
-  },
   {
    "day": "tomorrow",
    "time": "01:55",
    "type": "high"
+  },
+  {
+   "day": "tomorrow",
+   "time": "07:40",
+   "type": "low"
   }
  ],
  "note": null,
- "reading_time": "16:00",
+ "reading_time": "19:00",
  "season": "late August",
  "stale": false,
  "temp": 17.2,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "same as last week",
+ "trend": "0.2°C warmer than last week",
  "typical_high": 17.07,
  "typical_low": 14.5,
- "updated_at": "2026-08-30T16:11:01Z",
+ "updated_at": "2026-08-30T18:41:03Z",
  "updated_day": "Sun 30 Aug",
- "updated_local": "17:11",
+ "updated_local": "19:41",
  "water": "Excellent at the 12 other spots (tested 6d ago)",
  "wave": 0.7,
- "wind_dir": "SE",
- "wind_kt": 16
+ "wind_dir": "SSW",
+ "wind_kt": 2
 }
