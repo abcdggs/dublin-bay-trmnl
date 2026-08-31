@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "02:00",
+ "reading_time": "04:00",
  "season": "late August",
  "stale": false,
  "temp": 17.1,
@@ -41,11 +41,11 @@
  "trend": "0.4°C warmer than last week",
  "typical_high": 17.06,
  "typical_low": 14.4,
- "updated_at": "2026-08-31T01:26:06Z",
+ "updated_at": "2026-08-31T04:10:50Z",
  "updated_day": "Mon 31 Aug",
- "updated_local": "02:26",
+ "updated_local": "05:10",
  "water": "Excellent at the 12 other spots (tested 7d ago)",
- "wave": 0.6,
- "wind_dir": "W",
+ "wave": 0.5,
+ "wind_dir": "WNW",
  "wind_kt": 18
 }
