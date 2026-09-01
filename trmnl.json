@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "14:00",
+ "reading_time": "15:00",
  "season": "early September",
  "stale": false,
  "temp": 17,
@@ -41,11 +41,11 @@
  "trend": "0.2°C warmer than last week",
  "typical_high": 17.04,
  "typical_low": 14.4,
- "updated_at": "2026-09-01T14:13:26Z",
+ "updated_at": "2026-09-01T14:49:42Z",
  "updated_day": "Tue 1 Sep",
- "updated_local": "15:13",
+ "updated_local": "15:49",
  "water": "Excellent at the 12 other spots (tested 8d ago)",
- "wave": 0.4,
- "wind_dir": "SW",
- "wind_kt": 11
+ "wave": 0.5,
+ "wind_dir": "WSW",
+ "wind_kt": 8
 }
