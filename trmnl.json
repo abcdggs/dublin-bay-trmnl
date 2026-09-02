@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "16:00",
+ "reading_time": "18:00",
  "season": "early September",
  "stale": false,
  "temp": 17.1,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.1°C warmer than last week",
+ "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.3,
- "updated_at": "2026-09-02T16:11:06Z",
+ "updated_at": "2026-09-02T17:57:55Z",
  "updated_day": "Wed 2 Sep",
- "updated_local": "17:11",
+ "updated_local": "18:57",
  "water": "Poor at Claremont, Excellent elsewhere (tested 3–9d ago)",
- "wave": 0.9,
+ "wave": 0.6,
  "wind_dir": "WSW",
- "wind_kt": 6
+ "wind_kt": 5
 }
