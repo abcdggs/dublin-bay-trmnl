@@ -2,50 +2,50 @@
  "alert": "Swim notice at Balbriggan, Dun Laoghaire Baths, Forty Foot, Half Moon, Killiney, Portmarnock, Sandycove, Sandymount, Seapoint, White Rock",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 21,
+ "gust_kt": 23,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "04:00",
    "type": "high"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "09:45",
    "type": "low"
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "early September",
  "stale": false,
- "temp": 17.0,
+ "temp": 17,
  "tides_today": [
   {
-   "time": "03:15",
+   "time": "04:00",
    "type": "high"
   },
   {
-   "time": "09:00",
+   "time": "09:45",
    "type": "low"
   },
   {
-   "time": "15:45",
+   "time": "16:35",
    "type": "high"
   },
   {
-   "time": "21:20",
+   "time": "22:15",
    "type": "low"
   }
  ],
  "trend": "0.2°C cooler than last week",
  "typical_high": 17.0,
- "typical_low": 14.3,
- "updated_at": "2026-09-02T22:44:29Z",
- "updated_day": "Wed 2 Sep",
- "updated_local": "23:44",
- "water": "Poor at Claremont, Excellent elsewhere (tested 3–9d ago)",
+ "typical_low": 14.18,
+ "updated_at": "2026-09-02T23:17:01Z",
+ "updated_day": "Thu 3 Sep",
+ "updated_local": "00:17",
+ "water": "Poor at Claremont, Excellent elsewhere (tested 4–10d ago)",
  "wave": 0.7,
- "wind_dir": "SW",
- "wind_kt": 9
+ "wind_dir": "WSW",
+ "wind_kt": 10
 }
