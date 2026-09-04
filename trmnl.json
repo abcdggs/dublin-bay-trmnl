@@ -2,7 +2,7 @@
  "alert": "Swim notice at Balbriggan, Dollymount, Half Moon, Portmarnock, Sandymount",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 12,
+ "gust_kt": 10,
  "next_tides": [
   {
    "day": "today",
@@ -16,10 +16,10 @@
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "01:00",
  "season": "early September",
  "stale": false,
- "temp": 17,
+ "temp": 17.0,
  "tides_today": [
   {
    "time": "05:00",
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.1°C cooler than last week",
+ "trend": "same as last week",
  "typical_high": 17.0,
  "typical_low": 14.09,
- "updated_at": "2026-09-03T23:14:44Z",
+ "updated_at": "2026-09-04T01:07:20Z",
  "updated_day": "Fri 4 Sep",
- "updated_local": "00:14",
+ "updated_local": "02:07",
  "water": "Excellent at the 20 other spots (tested 4–11d ago)",
  "wave": 0.5,
- "wind_dir": "SSE",
- "wind_kt": 8
+ "wind_dir": "WSW",
+ "wind_kt": 6
 }
