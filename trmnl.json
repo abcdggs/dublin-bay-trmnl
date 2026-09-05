@@ -2,7 +2,7 @@
  "alert": "Swim notice at Balbriggan, Balbriggan, Dollymount, Half Moon, Portmarnock, Sandymount",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 24,
+ "gust_kt": 22,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "01:00",
  "season": "early September",
  "stale": false,
  "temp": 16.9,
@@ -37,11 +37,11 @@
  "trend": "0.2°C cooler than last week",
  "typical_high": 17.0,
  "typical_low": 14.01,
- "updated_at": "2026-09-04T23:01:10Z",
+ "updated_at": "2026-09-05T01:11:27Z",
  "updated_day": "Sat 5 Sep",
- "updated_local": "00:01",
+ "updated_local": "02:11",
  "water": "Good at Corbawn Lane, Excellent elsewhere (tested 5–12d ago)",
  "wave": 0.4,
  "wind_dir": "W",
- "wind_kt": 18
+ "wind_kt": 16
 }
