@@ -16,10 +16,10 @@
   }
  ],
  "note": null,
- "reading_time": "21:00",
+ "reading_time": "22:00",
  "season": "early September",
  "stale": false,
- "temp": 16.8,
+ "temp": 16.9,
  "tides_today": [
   {
    "time": "00:50",
@@ -38,14 +38,14 @@
    "type": "high"
   }
  ],
- "trend": "0.3°C cooler than last week",
+ "trend": "0.2°C cooler than last week",
  "typical_high": 17.0,
  "typical_low": 14.0,
- "updated_at": "2026-09-06T20:48:18Z",
+ "updated_at": "2026-09-06T22:11:57Z",
  "updated_day": "Sun 6 Sep",
- "updated_local": "21:48",
+ "updated_local": "23:11",
  "water": "Good at Corbawn Lane, Excellent elsewhere (tested 6–13d ago)",
- "wave": 0.8,
- "wind_dir": "SSE",
+ "wave": 1.0,
+ "wind_dir": "S",
  "wind_kt": 12
 }
