@@ -6,13 +6,13 @@
  "next_tides": [
   {
    "day": "today",
-   "time": "13:30",
-   "type": "low"
-  },
-  {
-   "day": "today",
    "time": "20:20",
    "type": "high"
+  },
+  {
+   "day": "tomorrow",
+   "time": "02:20",
+   "type": "low"
   }
  ],
  "note": null,
@@ -38,12 +38,12 @@
    "type": "high"
   }
  ],
- "trend": "0.3°C cooler than last week",
+ "trend": "0.4°C cooler than last week",
  "typical_high": 17.0,
  "typical_low": 14.0,
- "updated_at": "2026-09-06T12:19:44Z",
+ "updated_at": "2026-09-06T13:00:27Z",
  "updated_day": "Sun 6 Sep",
- "updated_local": "13:19",
+ "updated_local": "14:00",
  "water": "Good at Corbawn Lane, Excellent elsewhere (tested 6–13d ago)",
  "wave": 1.5,
  "wind_dir": "SSE",
