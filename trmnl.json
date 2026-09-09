@@ -5,12 +5,12 @@
  "gust_kt": 15,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "05:10",
    "type": "low"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "11:55",
    "type": "high"
   }
@@ -22,29 +22,25 @@
  "temp": 16.3,
  "tides_today": [
   {
-   "time": "04:25",
+   "time": "05:10",
    "type": "low"
   },
   {
-   "time": "11:10",
+   "time": "11:55",
    "type": "high"
   },
   {
-   "time": "16:40",
+   "time": "17:20",
    "type": "low"
-  },
-  {
-   "time": "23:20",
-   "type": "high"
   }
  ],
  "trend": "0.7°C cooler than last week",
- "typical_high": 17.0,
- "typical_low": 13.9,
- "updated_at": "2026-09-09T22:39:52Z",
- "updated_day": "Wed 9 Sep",
- "updated_local": "23:39",
- "water": "Good/Poor at Balbriggan, Corbawn Lane, Excellent elsewhere (tested 9–16d ago)",
+ "typical_high": 16.99,
+ "typical_low": 13.88,
+ "updated_at": "2026-09-09T23:11:28Z",
+ "updated_day": "Thu 10 Sep",
+ "updated_local": "00:11",
+ "water": "Good/Poor at Balbriggan, Corbawn Lane, Excellent elsewhere (tested 10–17d ago)",
  "wave": 0.5,
  "wind_dir": "SSW",
  "wind_kt": 13
