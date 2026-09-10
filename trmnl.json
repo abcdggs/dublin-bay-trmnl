@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "04:00",
+ "reading_time": "06:00",
  "season": "early September",
  "stale": false,
  "temp": 16.3,
@@ -37,11 +37,11 @@
  "trend": "0.8°C cooler than last week",
  "typical_high": 16.99,
  "typical_low": 13.88,
- "updated_at": "2026-09-10T04:11:07Z",
+ "updated_at": "2026-09-10T06:14:22Z",
  "updated_day": "Thu 10 Sep",
- "updated_local": "05:11",
+ "updated_local": "07:14",
  "water": "Good/Poor at Balbriggan, Corbawn Lane, Excellent elsewhere (tested 10–17d ago)",
- "wave": 0.7,
+ "wave": 1,
  "wind_dir": "SSE",
- "wind_kt": 19
+ "wind_kt": 17
 }
