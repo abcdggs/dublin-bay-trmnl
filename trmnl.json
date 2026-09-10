@@ -2,7 +2,7 @@
  "alert": "Swim notice at Dollymount, Portmarnock",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 15,
+ "gust_kt": 18,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "01:00",
  "season": "early September",
  "stale": false,
  "temp": 16.3,
@@ -37,11 +37,11 @@
  "trend": "0.7°C cooler than last week",
  "typical_high": 16.99,
  "typical_low": 13.88,
- "updated_at": "2026-09-09T23:11:28Z",
+ "updated_at": "2026-09-10T01:15:02Z",
  "updated_day": "Thu 10 Sep",
- "updated_local": "00:11",
+ "updated_local": "02:15",
  "water": "Good/Poor at Balbriggan, Corbawn Lane, Excellent elsewhere (tested 10–17d ago)",
- "wave": 0.5,
- "wind_dir": "SSW",
- "wind_kt": 13
+ "wave": 0.6,
+ "wind_dir": "S",
+ "wind_kt": 14
 }
