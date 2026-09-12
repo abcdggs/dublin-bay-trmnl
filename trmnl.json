@@ -1,8 +1,8 @@
 {
- "alert": "Swim notice at Dollymount, Portmarnock",
+ "alert": "Bathing prohibited at Dollymount (since 3 Sep)",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 22,
+ "gust_kt": 26,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "14:00",
+ "reading_time": "16:00",
  "season": "mid-September",
  "stale": false,
  "temp": 16.4,
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.5°C cooler than last week",
+ "trend": "0.4°C cooler than last week",
  "typical_high": 16.9,
  "typical_low": 13.8,
- "updated_at": "2026-09-12T13:34:58Z",
+ "updated_at": "2026-09-12T16:11:03Z",
  "updated_day": "Sat 12 Sep",
- "updated_local": "14:34",
- "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 3–5d ago)",
- "wave": 1.0,
+ "updated_local": "17:11",
+ "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 2–5d ago)",
+ "wave": 0.7,
  "wind_dir": "W",
- "wind_kt": 13
+ "wind_kt": 18
 }
