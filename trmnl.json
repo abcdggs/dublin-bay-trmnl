@@ -5,12 +5,12 @@
  "gust_kt": 8,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "01:30",
    "type": "high"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "07:05",
    "type": "low"
   }
@@ -22,29 +22,29 @@
  "temp": 16.3,
  "tides_today": [
   {
-   "time": "00:50",
+   "time": "01:30",
    "type": "high"
   },
   {
-   "time": "06:30",
+   "time": "07:05",
    "type": "low"
   },
   {
-   "time": "13:15",
+   "time": "13:50",
    "type": "high"
   },
   {
-   "time": "18:35",
+   "time": "19:15",
    "type": "low"
   }
  ],
  "trend": "0.5°C cooler than last week",
  "typical_high": 16.9,
  "typical_low": 13.8,
- "updated_at": "2026-09-12T22:26:34Z",
- "updated_day": "Sat 12 Sep",
- "updated_local": "23:26",
- "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 2–5d ago)",
+ "updated_at": "2026-09-12T23:01:06Z",
+ "updated_day": "Sun 13 Sep",
+ "updated_local": "00:01",
+ "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 3–6d ago)",
  "wave": 0.5,
  "wind_dir": "W",
  "wind_kt": 5
