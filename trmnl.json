@@ -2,24 +2,24 @@
  "alert": "Bathing prohibited at Dollymount (since 3 Sep)",
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 8,
+ "gust_kt": 6,
  "next_tides": [
-  {
-   "day": "today",
-   "time": "01:30",
-   "type": "high"
-  },
   {
    "day": "today",
    "time": "07:05",
    "type": "low"
+  },
+  {
+   "day": "today",
+   "time": "13:50",
+   "type": "high"
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "02:00",
  "season": "mid-September",
  "stale": false,
- "temp": 16.3,
+ "temp": 16.4,
  "tides_today": [
   {
    "time": "01:30",
@@ -38,14 +38,14 @@
    "type": "low"
   }
  ],
- "trend": "0.5°C cooler than last week",
+ "trend": "0.4°C cooler than last week",
  "typical_high": 16.9,
  "typical_low": 13.8,
- "updated_at": "2026-09-12T23:01:06Z",
+ "updated_at": "2026-09-13T01:15:34Z",
  "updated_day": "Sun 13 Sep",
- "updated_local": "00:01",
+ "updated_local": "02:15",
  "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 3–6d ago)",
  "wave": 0.5,
  "wind_dir": "W",
- "wind_kt": 5
+ "wind_kt": 4
 }
