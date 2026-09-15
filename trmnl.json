@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 23,
+ "gust_kt": 31,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "00:00",
+ "reading_time": "02:00",
  "season": "mid-September",
  "stale": false,
  "temp": 16.5,
@@ -41,11 +41,11 @@
  "trend": "0.2°C cooler than last week",
  "typical_high": 16.9,
  "typical_low": 13.7,
- "updated_at": "2026-09-14T23:50:58Z",
+ "updated_at": "2026-09-15T01:38:16Z",
  "updated_day": "Tue 15 Sep",
- "updated_local": "00:50",
+ "updated_local": "02:38",
  "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 4–8d ago)",
- "wave": 0.7,
- "wind_dir": "SSW",
- "wind_kt": 18
+ "wave": 1.2,
+ "wind_dir": "W",
+ "wind_kt": 23
 }
