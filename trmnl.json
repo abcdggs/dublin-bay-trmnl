@@ -6,13 +6,13 @@
  "next_tides": [
   {
    "day": "today",
-   "time": "15:40",
-   "type": "high"
-  },
-  {
-   "day": "today",
    "time": "21:20",
    "type": "low"
+  },
+  {
+   "day": "tomorrow",
+   "time": "04:05",
+   "type": "high"
   }
  ],
  "note": null,
@@ -41,9 +41,9 @@
  "trend": "same as last week",
  "typical_high": 16.9,
  "typical_low": 13.68,
- "updated_at": "2026-09-16T14:16:00Z",
+ "updated_at": "2026-09-16T14:55:02Z",
  "updated_day": "Wed 16 Sep",
- "updated_local": "15:16",
+ "updated_local": "15:55",
  "water": "Good/Sufficient at Forty Foot, Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 5–9d ago)",
  "wave": 0.4,
  "wind_dir": "WSW",
