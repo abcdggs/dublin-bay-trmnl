@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 13,
+ "gust_kt": 19,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "19:00",
+ "reading_time": "20:00",
  "season": "late September",
  "stale": false,
  "temp": 16.2,
@@ -41,11 +41,11 @@
  "trend": "same as last week",
  "typical_high": 16.84,
  "typical_low": 13.2,
- "updated_at": "2026-09-24T18:30:36Z",
+ "updated_at": "2026-09-24T19:58:18Z",
  "updated_day": "Thu 24 Sep",
- "updated_local": "19:30",
+ "updated_local": "20:58",
  "water": "Good/Sufficient at Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 9–17d ago)",
- "wave": 1.1,
- "wind_dir": "SSE",
- "wind_kt": 8
+ "wave": 0.9,
+ "wind_dir": "SE",
+ "wind_kt": 13
 }
