@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 13,
+ "gust_kt": 12,
  "next_tides": [
   {
    "day": "today",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "21:00",
+ "reading_time": "23:00",
  "season": "mid-October",
  "stale": false,
  "temp": 14.1,
@@ -41,11 +41,11 @@
  "trend": "0.6°C cooler than last week",
  "typical_high": 15.45,
  "typical_low": 11.3,
- "updated_at": "2026-10-18T21:01:08Z",
+ "updated_at": "2026-10-18T22:30:05Z",
  "updated_day": "Sun 18 Oct",
- "updated_local": "22:01",
+ "updated_local": "23:30",
  "water": "Good/Sufficient at Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 33–41d ago)",
  "wave": 0.4,
  "wind_dir": "ENE",
- "wind_kt": 9
+ "wind_kt": 8
 }
