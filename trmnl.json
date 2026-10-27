@@ -5,47 +5,43 @@
  "gust_kt": 35,
  "next_tides": [
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "05:10",
    "type": "low"
   },
   {
-   "day": "tomorrow",
+   "day": "today",
    "time": "11:55",
    "type": "high"
   }
  ],
  "note": null,
- "reading_time": "23:00",
+ "reading_time": "00:00",
  "season": "late October",
  "stale": false,
- "temp": 12.9,
+ "temp": 12.8,
  "tides_today": [
   {
-   "time": "04:35",
+   "time": "05:10",
    "type": "low"
   },
   {
-   "time": "11:20",
+   "time": "11:55",
    "type": "high"
   },
   {
-   "time": "16:50",
+   "time": "17:25",
    "type": "low"
-  },
-  {
-   "time": "23:25",
-   "type": "high"
   }
  ],
- "trend": "1.0°C cooler than last week",
- "typical_high": 14.82,
- "typical_low": 10.8,
- "updated_at": "2026-10-26T23:57:59Z",
- "updated_day": "Mon 26 Oct",
- "updated_local": "23:57",
- "water": "Good/Sufficient at Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 41–49d ago)",
- "wave": 2.4,
- "wind_dir": "S",
- "wind_kt": 19
+ "trend": "1.1°C cooler than last week",
+ "typical_high": 14.68,
+ "typical_low": 10.7,
+ "updated_at": "2026-10-27T00:23:16Z",
+ "updated_day": "Tue 27 Oct",
+ "updated_local": "00:23",
+ "water": "Good/Sufficient at Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 42–50d ago)",
+ "wave": 2.3,
+ "wind_dir": "SSW",
+ "wind_kt": 24
 }
