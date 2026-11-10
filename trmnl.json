@@ -2,7 +2,7 @@
  "alert": null,
  "archive_start": "2014",
  "gale": false,
- "gust_kt": 13,
+ "gust_kt": 21,
  "next_tides": [
   {
    "day": "tomorrow",
@@ -16,7 +16,7 @@
   }
  ],
  "note": null,
- "reading_time": "17:00",
+ "reading_time": "19:00",
  "season": "early November",
  "stale": false,
  "temp": 12,
@@ -37,11 +37,11 @@
  "trend": "0.7°C cooler than last week",
  "typical_high": 14.1,
  "typical_low": 8.9,
- "updated_at": "2026-11-10T17:44:38Z",
+ "updated_at": "2026-11-10T19:54:01Z",
  "updated_day": "Tue 10 Nov",
- "updated_local": "17:44",
+ "updated_local": "19:54",
  "water": "Good/Sufficient at Half Moon, Merrion Strand, Shelley Banks, Excellent elsewhere (tested 56–64d ago)",
  "wave": 1,
  "wind_dir": "ENE",
- "wind_kt": 7
+ "wind_kt": 14
 }
